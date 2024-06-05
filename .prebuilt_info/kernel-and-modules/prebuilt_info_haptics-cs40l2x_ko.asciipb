@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "11187870"
+    target: "slider_gki"
+    source_file: "haptics-cs40l2x.ko"
+  }
+  dest_file: "haptics-cs40l2x.ko"
+  version: "11187870"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/raviole-kernel"
+}

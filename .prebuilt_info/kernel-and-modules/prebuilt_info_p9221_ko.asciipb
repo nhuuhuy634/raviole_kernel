@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "11187870"
+    target: "slider_gki"
+    source_file: "p9221.ko"
+  }
+  dest_file: "p9221.ko"
+  version: "11187870"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/raviole-kernel"
+}

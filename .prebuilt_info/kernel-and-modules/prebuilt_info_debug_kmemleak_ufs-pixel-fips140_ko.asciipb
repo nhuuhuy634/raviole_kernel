@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "11158565"
+    target: "slider_gki_debug_kmemleak"
+    source_file: "ufs-pixel-fips140.ko"
+  }
+  dest_file: "debug_kmemleak/ufs-pixel-fips140.ko"
+  version: "11158565"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/raviole-kernel"
+}

@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "11158565"
+    target: "slider_gki_debug_memory"
+    source_file: "mcps802154_region_pctt.ko"
+  }
+  dest_file: "debug_memory/mcps802154_region_pctt.ko"
+  version: "11158565"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/raviole-kernel"
+}
